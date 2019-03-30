@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "publish": "lerna publish",
+    "publish:next": "npm run publish --npm-tag next"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
