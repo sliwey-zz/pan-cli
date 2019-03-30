@@ -1,6 +1,6 @@
 {
   "name": "@pan/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "utils for pan",
   "main": "index.js",
   "author": "sliwey",

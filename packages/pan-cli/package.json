@@ -1,6 +1,6 @@
 {
   "name": "@pan/cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create web apps with no build configuration.",
   "bin": {
     "pan": "./bin/index.js"
