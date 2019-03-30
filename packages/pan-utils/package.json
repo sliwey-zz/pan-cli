@@ -1,0 +1,8 @@
+{
+  "name": "@pan/utils",
+  "version": "0.0.1",
+  "description": "utils for pan",
+  "main": "index.js",
+  "author": "sliwey",
+  "license": "MIT"
+}

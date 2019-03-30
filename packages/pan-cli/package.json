@@ -1,0 +1,16 @@
+{
+  "name": "@pan/cli",
+  "version": "0.0.1",
+  "description": "Create web apps with no build configuration.",
+  "bin": {
+    "pan": "./bin/index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "sliwey",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
